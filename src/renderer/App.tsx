@@ -10,6 +10,7 @@ const Hello = () => {
       </div>
       <h1>electron-react-boilerplate</h1>
       <div className="Hello">
+        <h1> Sekooo</h1>
         <a
           href="https://electron-react-boilerplate.js.org/"
           target="_blank"
